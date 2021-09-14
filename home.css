@@ -1,0 +1,241 @@
+*{
+    margin: 0%;
+}
+.header{
+    height: 70px;
+    width: 95%;
+    margin-left: 35px;
+    background-color: rgba(33, 61, 94, 0.788);
+    padding-top: 0%;
+}
+header img{
+    border-radius: 50%;
+    float: left;
+    margin:5px 0px 0px 20px;
+}
+
+header nav ul li {
+    list-style: none;
+    display: inline;
+    
+}
+header nav ul li a{
+    text-decoration: none;
+    color: white;
+    padding: 20px;
+    float: right;
+    font-size: 20px;
+    margin-right: 20px;
+}
+header nav ul li a i{
+    margin-right: 10px;
+}
+header h2{
+    color: white;
+    font-size: 35px;
+    margin-left: 20px;
+    float: left;
+    margin-top: 15px;
+    padding: 0%;
+    margin-bottom: 15px;
+}
+.section1{
+    clear: both;
+    background: url("images/122.jpg");
+    height: 500px;
+    width:95%;
+    margin-left: 35px;
+    background-size: cover;
+}
+.section1 h1{
+    display: block;
+    font-size: 45px;
+    color: white;
+    font-family:Arial, Helvetica, sans-serif;
+    backdrop-filter: blur(5px);
+    width: 900px;
+    height: 50px;
+    margin-left: 300px;
+    padding-top: 150px;
+}
+.section1 p{
+    font-size: 22px;
+    line-height: 1.6;
+    font-weight: 400;
+    max-width: 700px;
+    margin: auto;
+    margin-top: 20px;
+    text-align: center;
+    color: rgb(101, 140, 161);
+   
+    display: block;
+}
+.btn{
+    display: inline-block;
+    text-decoration: none;
+    color: white;
+    background-color: greenyellow;
+    font-weight: bold;
+    font-size: 20px;
+    padding: 10px 50px;
+    margin: 50px 10px;
+    border-radius: 5px;
+    box-shadow: 3px 5px rgb(101, 156, 17);
+}
+.btn1{
+    margin-left: 450px;
+}
+.btn2{
+    background-color: rgb(116, 185, 206);
+    box-shadow: 3px 5px rgb(39, 115, 138);
+}
+.clr{
+    clear: both;
+}
+.section2{
+    height: 280px;
+    width: 95%;
+    margin-left: 35px;
+    margin-right: 35px;
+    
+    padding: 50px;
+}
+.l1{
+    float: left;
+    width: 330px;
+    height: 265px;
+    margin-right: 80px;
+    border: 1px solid rgb(194, 193, 193);
+    border-radius: 5px;
+    padding: 13px 0px 1px 0px;
+    text-align: center;
+    background-color: whitesmoke;
+}
+aside h4 img{ 
+    float: left;
+    margin: 5px 0px 0px 15px;
+}
+aside h5 {
+    float: right;
+    display: block;
+    width: 240px;
+    height: 40px;
+    margin: 5px 10px 0px 0px;
+    padding: 5px;
+    font-size: 20px;
+    color: gray;
+}
+    
+.section3{
+    height: 120px;
+    width: 95%;
+    margin-left: 60px;
+}
+.section3 aside{
+    width: 340px;
+    height: 50px;
+    
+    float: left;
+    padding: 20px;
+    margin-left: 20px;
+} 
+.section3 aside img{
+    border-radius: 50%;
+    float: left;
+}
+.section3 aside h4{
+    display: block;
+    font-weight: lighter;
+    color: rgb(95, 93, 93);
+    float: right;
+    height: 50px;
+    width: 250px;
+    margin-top: 20px;
+}
+
+
+.section4{
+    height: 140px;
+    width: 95%;
+    margin-left: 35px;
+}
+.section4 ul li{
+    list-style: none;
+    display: inline;
+}
+.section4 ul li img{
+    padding: 52px 20px 0px 20px;
+    
+}
+
+.section4 aside{
+    float: left;
+    font-size: 20px;
+    padding: 55px 30px 0px 50px;
+}
+footer{
+    height: 200px;
+    width: 95%;
+    margin-left: 35px;
+    background-color: rgba(33, 61, 94, 0.788);;
+}
+.bars{
+    float: left;
+    width: 135px;
+    height: 150px;
+    display: inline;
+}
+
+.bars li{
+    list-style: none;
+    padding-top: 6px;
+}
+.bars li a{
+    text-decoration: none;
+    font-size:16px;
+    color: white;
+}
+.bars ul h3{
+    color: white;
+    padding: 25px 0px 14px 0px;
+    font-size: 17px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.logo{
+    height: 100px;
+    width: 220px;
+    float: right;
+    padding-top: 30px;
+    
+}
+.logo li{
+    list-style: none;
+    display: inline;
+}
+.logo li a{
+    color: white;
+    text-decoration: none;
+    padding: 8px;
+}
+.btnregister{
+    width: 150px;
+    height: 40px;
+    margin: 40px 0px 0px 150px;
+    display: inline-block;
+    text-decoration: none;
+    background-color: greenyellow;
+    font-weight: bold;
+    font-size: 20px;
+    border-radius: 5px;
+    border: 1px solid white;
+}
+.footend{
+    width:220px;
+height: 60px;
+padding: 80px 0px 0px 0px;
+color: white;
+}
+    
+
+
+
